@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sarvesh</folder>
+	<filename>satellite-image-quickbird-arizona-fire.jpg</filename>
+	<path>C:\Users\Lenovo\Desktop\Sarvesh\satellite-image-quickbird-arizona-fire.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>856</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>261</xmin>
+			<ymin>164</ymin>
+			<xmax>671</xmax>
+			<ymax>618</ymax>
+		</bndbox>
+	</object>
+</annotation>

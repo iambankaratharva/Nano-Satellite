@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sarvesh</folder>
+	<filename>oregon-wildfires.jpg</filename>
+	<path>C:\Users\Lenovo\Desktop\Sarvesh\oregon-wildfires.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2821</width>
+		<height>1648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1167</xmin>
+			<ymin>25</ymin>
+			<xmax>2209</xmax>
+			<ymax>1648</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sarvesh</folder>
+	<filename>Russia_amo_2015220.jpg</filename>
+	<path>C:\Users\Lenovo\Desktop\Sarvesh\Russia_amo_2015220.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>6</ymin>
+			<xmax>460</xmax>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+</annotation>
