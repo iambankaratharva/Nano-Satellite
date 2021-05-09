@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sneh</folder>
+	<filename>310284_185707724835041_3676034_n.jpg</filename>
+	<path>C:\Users\Sneh\Desktop\Sneh\310284_185707724835041_3676034_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>206</width>
+		<height>206</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fire</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>66</ymin>
+			<xmax>206</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>

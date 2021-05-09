@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sneh</folder>
+	<filename>259000main_whiskeytown_ast_2008188.jpg</filename>
+	<path>C:\Users\Sneh\Desktop\Sneh\259000main_whiskeytown_ast_2008188.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>540</width>
+		<height>405</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>256</xmin>
+			<ymin>187</ymin>
+			<xmax>479</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>
