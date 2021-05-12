@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Saloni-20210509T115149Z-001</folder>
+	<filename>siberian fire 1.jpg</filename>
+	<path>C:\Users\Saloni\OneDrive\Desktop\Saloni-20210509T115149Z-001\siberian fire 1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>764</width>
+		<height>505</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>371</xmin>
+			<ymin>130</ymin>
+			<xmax>538</xmax>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+</annotation>

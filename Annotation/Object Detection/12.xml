@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Saloni-20210509T115149Z-001</folder>
+	<filename>12.jpeg</filename>
+	<path>C:\Users\Saloni\OneDrive\Desktop\Saloni-20210509T115149Z-001\12.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>597</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>544</xmin>
+			<ymin>147</ymin>
+			<xmax>715</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+</annotation>
