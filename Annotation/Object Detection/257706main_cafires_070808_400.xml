@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sneh</folder>
+	<filename>257706main_cafires_070808_400.jpg</filename>
+	<path>C:\Users\Sneh\Desktop\Sneh\257706main_cafires_070808_400.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>91</ymin>
+			<xmax>315</xmax>
+			<ymax>225</ymax>
+		</bndbox>
+	</object>
+</annotation>

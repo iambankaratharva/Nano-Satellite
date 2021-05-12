@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sneh</folder>
+	<filename>257955main_iss017e010303_med.jpg</filename>
+	<path>C:\Users\Sneh\Desktop\Sneh\257955main_iss017e010303_med.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>437</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fire</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>21</ymin>
+			<xmax>640</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+</annotation>
