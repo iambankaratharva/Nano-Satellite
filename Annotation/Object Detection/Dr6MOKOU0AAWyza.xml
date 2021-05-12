@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sarvesh</folder>
+	<filename>Dr6MOKOU0AAWyza.jpg</filename>
+	<path>C:\Users\Lenovo\Desktop\Sarvesh\Dr6MOKOU0AAWyza.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>27</ymin>
+			<xmax>732</xmax>
+			<ymax>704</ymax>
+		</bndbox>
+	</object>
+</annotation>

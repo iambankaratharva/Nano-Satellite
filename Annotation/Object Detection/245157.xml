@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Prachi</folder>
+	<filename>245157.jpg</filename>
+	<path>C:\Users\Sneh\Desktop\Prachi\245157.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1186</width>
+		<height>840</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>440</xmin>
+			<ymin>308</ymin>
+			<xmax>749</xmax>
+			<ymax>716</ymax>
+		</bndbox>
+	</object>
+</annotation>

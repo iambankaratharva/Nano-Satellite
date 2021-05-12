@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Prachi</folder>
+	<filename>130630_G15_VIS_YARNELL_FIRE_58.gif</filename>
+	<path>C:\Users\Sneh\Desktop\Prachi\130630_G15_VIS_YARNELL_FIRE_58.gif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>593</xmin>
+			<ymin>391</ymin>
+			<xmax>711</xmax>
+			<ymax>537</ymax>
+		</bndbox>
+	</object>
+</annotation>

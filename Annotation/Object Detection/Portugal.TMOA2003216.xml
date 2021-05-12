@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Prachi</folder>
+	<filename>Portugal.TMOA2003216.jpg</filename>
+	<path>C:\Users\Sneh\Desktop\Prachi\Portugal.TMOA2003216.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>540</width>
+		<height>701</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>150</ymin>
+			<xmax>174</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>

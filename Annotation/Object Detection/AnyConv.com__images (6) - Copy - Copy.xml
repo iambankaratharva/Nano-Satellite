@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sarvesh</folder>
+	<filename>AnyConv.com__images (6) - Copy - Copy.jpg</filename>
+	<path>C:\Users\Lenovo\Desktop\Sarvesh\AnyConv.com__images (6) - Copy - Copy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>299</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>28</ymin>
+			<xmax>158</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+</annotation>

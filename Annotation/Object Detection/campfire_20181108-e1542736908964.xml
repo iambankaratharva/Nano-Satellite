@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Prachi</folder>
+	<filename>campfire_20181108-e1542736908964.png</filename>
+	<path>C:\Users\Sneh\Desktop\Prachi\campfire_20181108-e1542736908964.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>410</width>
+		<height>231</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>50</ymin>
+			<xmax>399</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+</annotation>

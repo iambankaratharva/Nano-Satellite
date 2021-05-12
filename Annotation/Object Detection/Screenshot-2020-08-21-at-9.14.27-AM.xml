@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sarvesh</folder>
+	<filename>Screenshot-2020-08-21-at-9.14.27-AM.png</filename>
+	<path>C:\Users\Lenovo\Desktop\Sarvesh\Screenshot-2020-08-21-at-9.14.27-AM.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>961</width>
+		<height>527</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fire</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>7</ymin>
+			<xmax>778</xmax>
+			<ymax>527</ymax>
+		</bndbox>
+	</object>
+</annotation>
