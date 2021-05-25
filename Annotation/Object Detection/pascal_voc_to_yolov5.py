@@ -54,5 +54,5 @@ for annotation in os.listdir('PASCAL VOC XMLs'):
         output = output+str(cls_id)+' '+' '.join([str(a) for a in (x, y, w, h)])+'\n'
     
     #writing the data in a new file
-    with open(f"YOLOv5/{annotation.split('.')[0]}.txt", 'w') as file:
+    with open(f"YOLOv5/{annotation[:-4]}.txt", 'w') as file:
         file.write(output)
